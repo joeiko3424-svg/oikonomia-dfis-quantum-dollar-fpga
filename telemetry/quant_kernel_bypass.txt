@@ -1,0 +1,5 @@
+[QUANT BARE-METAL KERNEL BYPASS AUDIT RESULTS]
+P50 Latency  : 160 ns (0.16 us)
+P99 Latency  : 180 ns (0.18 us)
+P99.9 Latency: 310 ns (0.31 us)
+Jitter StdDev: 3865.28 ns

@@ -1,0 +1,17 @@
+{
+  "substrate": "AWS EC2 f2.6xlarge Xilinx UltraScale+ (0000:34:00.0 BAR0 MMIO)",
+  "agfi_id": "agfi-037dec8eb7fe5504d",
+  "active_onchip_state_bytes": 256,
+  "total_transactions": 1000000,
+  "settled_transactions": 995000,
+  "adversarial_faults_injected": 5000,
+  "adversarial_faults_blocked": 5000,
+  "blocked_breakdown": { "aml_sanctions": 1666, "genius_1to1_reserve": 1667, "genius_5pct_liquidity": 1667 },
+  "wall_clock_seconds": 0.188832,
+  "effective_tps": 5295709.53,
+  "p50_tx_gate_ns": 30.00,
+  "p99_tx_gate_ns": 510.00,
+  "sr26_2_rollback_steps": 1000,
+  "state_reconstruction_lsb_drift": 0,
+  "monetary_supply_conservation_error": 0
+}

@@ -1,0 +1,12 @@
+{
+    "manifest_version":  "1.0.0",
+    "generated_utc":  "2026-11-19T04:25:31Z",
+    "files":  {
+                  "dfis_quantum_dollar_audit.cpp":  "83915b6657bd84e689e296d94985585c9f05aeda3bac064fcadbc89bcde4d9db",
+                  "proofs/genius_act_sr26_2_audit.json":  "9959aa4b37279b2238328588a9de7db68e09546ba6bc3d5686d5b11871abb134",
+                  "README.md":  "70064f764adfb054aba62ce7333ac6a48f03f8a26d8e94967f35395fca765bb3",
+                  "telemetry/fpga_hardware_telemetry.txt":  "7dfea8c6b1e95a58d95c4deab1c0ec75a2972baa9808e3273767767c0e4cad66",
+                  "telemetry/quant_kernel_bypass.txt":  "533aaea3d87996e4ab5b7e08394665b5df7bdbc40f7521a4e00c140a4e8cd12a",
+                  "telemetry/unified_bar0_mmio.txt":  "dcdf3bdd29245b3c11a051bb87422c67e0935d8bea32f5a1cf6dcdb237b04427"
+              }
+}
